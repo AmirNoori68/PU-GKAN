@@ -1,1 +1,1 @@
-# Partition-of-Unity Gaussian Kolmogorov--Arnold Networks
+# Partition-of-Unity Gaussian Kolmogorov-Arnold Networks
